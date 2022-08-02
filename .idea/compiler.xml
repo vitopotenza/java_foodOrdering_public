@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="order-application" />
+        <module name="order-messaging" />
+        <module name="order-domain-core" />
+        <module name="order-application-service" />
+        <module name="order-container" />
+        <module name="order-dataaccess" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="food.ordering.system" target="${java.version}" />
+      <module name="order-application" target="${java.version}" />
+      <module name="order-application-service" target="${java.version}" />
+      <module name="order-container" target="${java.version}" />
+      <module name="order-dataaccess" target="${java.version}" />
+      <module name="order-domain" target="${java.version}" />
+      <module name="order-domain-core" target="${java.version}" />
+      <module name="order-messaging" target="${java.version}" />
+      <module name="order-service" target="${java.version}" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
