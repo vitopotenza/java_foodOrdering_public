@@ -1,4 +1,5 @@
 C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\RestaurantId.java
+C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\exception\DomainException.java
 C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\entity\AggregateRoot.java
 C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\Money.java
 C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\BaseId.java
