@@ -27,6 +27,8 @@ public class OrderItem extends BaseEntity<OrderItemId> {
     }
 
 
+
+
     public OrderItem(OrderId orderId, Product product, int quantity, Money price, Money subTotal) {
         this.orderId = orderId;
         this.product = product;
