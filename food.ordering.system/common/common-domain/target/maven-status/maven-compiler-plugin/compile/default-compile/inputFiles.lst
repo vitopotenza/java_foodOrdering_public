@@ -3,6 +3,7 @@ C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-doma
 C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\BaseId.java
 C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\CustomerId.java
 C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\event\DomainEvent.java
+C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\event\publisher\DomainEventPublisher.java
 C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\OrderApprovalStatus.java
 C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\valueobject\PaymentStatus.java
 C:\Users\vitop\Desktop\cleanArchitecture\food.ordering.system\common\common-domain\src\main\java\com\food\ordering\system\domain\exception\DomainException.java
