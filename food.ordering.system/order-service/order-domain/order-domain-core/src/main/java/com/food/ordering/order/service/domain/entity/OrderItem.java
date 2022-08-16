@@ -27,8 +27,6 @@ public class OrderItem extends BaseEntity<OrderItemId> {
     }
 
 
-
-
     public OrderItem(OrderId orderId, Product product, int quantity, Money price, Money subTotal) {
         this.orderId = orderId;
         this.product = product;
@@ -45,9 +43,6 @@ public class OrderItem extends BaseEntity<OrderItemId> {
         price = builder.price;
         subTotal = builder.subTotal;
     }
-
-
-
 
     public static final class Builder {
         private OrderItemId orderItemId;
@@ -88,6 +83,9 @@ public class OrderItem extends BaseEntity<OrderItemId> {
         public Builder subTotal(Money val) {
             subTotal = val;
             return this;
+        }
+        public static Builder builder(){
+            return new Builder();
         }
 
         public OrderItem build() {

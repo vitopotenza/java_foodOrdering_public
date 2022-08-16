@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/food.ordering.system/pom.xml" />
         <option value="$PROJECT_DIR$/food.ordering.system/order-system/order-messaging/pom.xml" />
+        <option value="$PROJECT_DIR$/food.ordering.system/order-service/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -6,7 +6,7 @@ import javax.validation.Valid;
 
 public interface PaymentResponseMessageListener {
 
-    void paymentCompleted(@Valid PaymentResponse paymentResponse);
+    void paymentCompleted (@Valid PaymentResponse paymentResponse);
 
-    void paymentCancelled(PaymentResponse paymentResponse);
+    void paymentCancelled (PaymentResponse paymentResponse);
 }
